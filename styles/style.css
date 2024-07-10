@@ -36,7 +36,7 @@ nav{
     margin: 35px 0;
 }
 .hero{
-    background: url("/assets/Hero-bg.png");
+    background-image: url("/assets/Hero-bg.png");
     text-align: center;
     top: 131px;
     padding-top: 26px;
@@ -251,7 +251,7 @@ nav{
 
 .section-six{
     max-width: 1140px;
-    background: url("/assets/handshake.jpg");
+    background-image: url("/assets/handshake.jpg");
     padding: 48px 64px;
     background-repeat: no-repeat;
     background-size: cover;
