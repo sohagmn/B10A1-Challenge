@@ -251,7 +251,7 @@ nav{
 
 .section-six{
     max-width: 1140px;
-    background-image: url("/assets/handshake.jpg");
+    background: url("/assets/handshake.jpg");
     padding: 48px 64px;
     background-repeat: no-repeat;
     background-size: cover;
