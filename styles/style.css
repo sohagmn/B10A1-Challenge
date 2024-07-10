@@ -35,9 +35,6 @@ nav{
     padding: 17px 24px 17px 24px;
     margin: 35px 0;
 }
-main{
-    margin-bottom: 200px;
-}
 .hero{
     background: url("/assets/Hero-bg.png");
     text-align: center;
@@ -326,6 +323,7 @@ footer{
     align-items: center;
     border-radius: 16px;
     background: rgba(13, 19, 33, 0.03);
+    margin-top: 79px;
 }
 
 .social-links{
