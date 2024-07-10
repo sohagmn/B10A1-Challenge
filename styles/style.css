@@ -339,3 +339,6 @@ footer{
     letter-spacing: 0%;
     text-align: center;
 }
+.social-links a img{
+    margin-right: 5px;
+}
